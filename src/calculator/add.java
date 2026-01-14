@@ -3,5 +3,6 @@ package calculator;
 public class add {
 	public static void main(String[] args) {
 		System.out.println("hululululu");
+		System.out.println("hahahahahahah");
 	}
 }
